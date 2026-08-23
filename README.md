@@ -123,8 +123,8 @@ git commit -m "Initial commit: Student Management System in Core Java"
 # 4. Set main branch
 git branch -M main
 
-# 5. Link to your remote GitHub repository (replace with your repo URL)
-git remote add origin https://github.com/<your-username>/Student-Management-System.git
+# 5. Link to your remote GitHub repository
+git remote add origin https://github.com/ajaychopade07/Student-Management-System.git
 
 # 6. Push to GitHub
 git push -u origin main
