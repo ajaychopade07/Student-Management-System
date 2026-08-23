@@ -1,6 +1,7 @@
 # Student Management System
 
-A simple, clean, and beginner-friendly Java console application for managing student records using pure Core Java (Java 17+).
+A simple, clean, and beginner-friendly Java console application for managing student records using pure Core Java (Java 17+)
+first project for the github
 
 ---
 
