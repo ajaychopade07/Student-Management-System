@@ -1,0 +1,3 @@
+STU101,John Doe,20,Computer Science,john.doe@example.com
+STU102,Jane Smith,22,Information Tech,jane.smith@example.com
+STU103,Alex Johnson,21,Data Science,alex.j@example.com
